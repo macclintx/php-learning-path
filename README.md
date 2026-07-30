@@ -6,4 +6,5 @@ Following a 4-month curriculum (phptutorial.net + extensions) to build a freelan
 
 | Week | Status |Deliverable |
 | --- | --- | --- |
-| 1 |   
+| 1 | ✅ Done | 10 syntax scripts |
+|   | 🚧 In progress | week 1 challenges |
