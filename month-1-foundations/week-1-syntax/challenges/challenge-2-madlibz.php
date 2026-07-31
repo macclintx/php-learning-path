@@ -1,5 +1,10 @@
 <?php
-    define('TEMPLATE_1', 'eratic');
-    define('TEMPLATE_2', 'dog');
+    define('ADJECTIVE', 'silly');
+    define('NOUN', 'dog');
+    define('VERB', 'running');
+    define('PLACE', 'gate');
 
-    printf("Your %s is very %s almost all the time",TEMPLATE_1,TEMPLATE_2);
+    define('PLACE', 'door');
+
+
+    printf("Your %s %s is %s almost all the time to the %s.",ADJECTIVE, NOUN, VERB, PLACE);
