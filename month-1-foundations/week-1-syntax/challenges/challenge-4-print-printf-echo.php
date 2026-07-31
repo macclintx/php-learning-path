@@ -3,6 +3,7 @@
     $salary = 40000;
     $hospital_branch = 'Kileleshwa';
 
+    //hello world to shallow to show the different formating options
     echo "He is a $occupation at $hospital_branch branch, earning KES $salary\n";
 
     print "The branch in $hospital_branch has a $occupation being paid KES $salary\n";
