@@ -1,9 +1,8 @@
 <?php
 
-    /* This script is a simple MadLibz game that tests constants and 
-        how to properly comment code. The catch is in the whitespaces at the
-        end of each LINEn constant because %s in printf already supply spacing. Also you need 8 %s
-        and you could easily miss one.
+    /* This script is a simple MadLibz game. The catch is in the trailing spaces at the
+        end of each LINEn constant because %s in printf already supplies spacing. Also you need 8 %s
+        and you ran into ArgumentCountError.
     */
 
     // declare constants for the static parts of the sentence since they won't change.   
