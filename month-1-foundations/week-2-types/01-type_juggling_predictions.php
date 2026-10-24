@@ -2,7 +2,7 @@
     var_dump(null == 0);            // true
     var_dump("0" == null);          // false
     var_dump("" == null);           // true
-    var_dump(0 == "");              // true
+    var_dump(0 == "");              // false - 
     var_dump("abc" == "ABC");       // false
     var_dump(" 1" == 1);            // true
     var_dump("1 " == 1);            // true
