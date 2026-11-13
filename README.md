@@ -8,4 +8,4 @@ Following a 4-month curriculum (phptutorial.net + extensions) to build a freelan
 |---|---|---|
 | 1 | ✅ Done | 8 syntax scripts from memory |
 |   | ✅ Done | Week 1 Challenges |
-
+| 2 | In Progress |  |
