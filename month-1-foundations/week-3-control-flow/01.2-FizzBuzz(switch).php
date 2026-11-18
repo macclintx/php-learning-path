@@ -2,8 +2,10 @@
     /*
         What it does: builds a FizzBuzz using switch
         What it assumes: assumes the dividers are 3 and 5 and stops dividing at 30
-        What breaks: when you leave out the break statement, it will run all the cases, leave out the default statement it will 
-                     only print fizz, buzz and fizzbuzz. Also the order of conditons
+        What breaks: when you leave out the break statement, execution continues onto the next case's code 
+                     from the matching case onward, leave out the default statement it will 
+                     only print fizz, buzz and fizzbuzz. Also the order of conditons, the first case that
+                     matches wins
         
         
     */
