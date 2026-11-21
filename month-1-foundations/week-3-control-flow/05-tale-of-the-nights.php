@@ -25,7 +25,6 @@
         }
         $nights_told++;
         echo "\n";
-        
 
     }
     echo "\nNights Told = $nights_told\nChapters Told: $chapters_told\n";
