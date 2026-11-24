@@ -1,0 +1,11 @@
+Exiting a loop with break leaves the loop immediately and the rest of the pass never runs. In part 1 of the challenge
+night 4 is never counted because of where the night_told counter sits. Its after inner loop and break 2 jumps over
+everything. In part 2, night 4 is counted because setting a flag only asks the loop to 
+the next time it checks its condition.
+
+In part one, the reader has to look inside both loops to know why the loop ends and in part two the reader has to look
+at the condition for the loops.
+
+In part 2, the reader has to remember it has two flags with different lifetimes and a reset line. In part one, the reader
+has to remember that the second break, 'break 2' ends both loops.
+
